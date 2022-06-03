@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vivienchristy
+- 🌱 I’m currently learning UI/UX 
 - 👀 I’m interested in website development and iOS app development
-- 🌱 I’m currently learning UI/UX and Swift
+
 
 <!---
 vivienchristy/vivienchristy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
