@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivienchristy
 - 🌱 I’m currently learning UI/UX 
-- 👀 I’m interested in website development and iOS app development
+- 👀 I’m interested in Website and iOS App development
 
 
 <!---
